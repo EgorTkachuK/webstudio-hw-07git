@@ -1,0 +1,93 @@
+.linkWebStudio{
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+    text-decoration: none;
+}    
+nav>ul>li{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+}
+.listheader>{
+    font-family: Roboto;
+        font-weight: 500;
+        font-size: 14px;
+        text-align: left;
+}
+.title1{
+color: #FFF;
+    text-align: center;
+    font-size: 44px;
+    font-family: Roboto;
+    font-weight: 900;
+    line-height: 10.36;
+    letter-spacing: 2.64px;
+    text-transform: uppercase;
+    border: 1600;
+    background-color: #000000;
+}
+.button1{
+    color: #FFF;
+        text-align: center;
+        font-size: 16px;
+        font-family: Roboto;
+        font-weight: 700;
+        line-height: 1.875;
+        letter-spacing: 0.96px;
+        background-color: #2196F3;
+        text-align: center;
+}
+
+.spanweb{color:#2196F3 ;}
+h3{color: #212121;
+font-size: 14px;
+font-family: Roboto;
+font-weight: 700;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+}
+.lastsection>p{
+     color: #757575;
+    font-size: 14px;
+    font-family: Roboto;
+    line-height: 24px;
+    letter-spacing: 0.42px;}
+    .title2{
+        color: #212121;
+            text-align: center;
+            font-size: 36px;
+            font-family: Roboto;
+            font-weight: 700;
+            letter-spacing: 1.08px;
+    }
+    .title3{ color: #212121;
+        text-align: center;
+        font-size: 36px;
+        font-family: Roboto;
+        font-weight: 700;
+        letter-spacing: 1.08px;}
+        .h5{color: #212121;
+            text-align: center;
+            font-size: 16px;
+            font-family: Roboto;
+            font-weight: 500;
+            letter-spacing: 0.48px;}
+.buttonportfolio{color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 1.625;
+    letter-spacing: 0.48px;}
+.buttonportfolio:hover{color: #2196F3;}
+    .titelportfolio{color: #212121;
+        font-size: 18px;
+        font-family: Roboto;
+        font-weight: 700;
+        line-height: 2;
+        letter-spacing: 1.08px;}
+        .listheader:hover{color: #2196F3;}
+        
