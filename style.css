@@ -23,12 +23,12 @@ color: #FFF;
     font-size: 44px;
     font-family: Roboto;
     font-weight: 900;
-    line-height: 10.36;
+    line-height: 1.36;
     letter-spacing: 2.64px;
     text-transform: uppercase;
-    border: 1600;
-    background-color: #000000;
+    
 }
+.main-section{background-color: #000000;}
 .button1{
     color: #FFF;
         text-align: center;
@@ -90,4 +90,7 @@ text-transform: uppercase;
         line-height: 2;
         letter-spacing: 1.08px;}
         .listheader:hover{color: #2196F3;}
+        .portfolio-body{
+            font-family:Roboto;
+        }
         
