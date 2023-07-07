@@ -61,7 +61,9 @@ color: #FFF;
     text-transform: uppercase;
     
 }
-.hero{background-color: #000000;}
+.hero{background-color: #000000;
+
+}
 .hero-button{
     color: #FFF;
         text-align: center;
