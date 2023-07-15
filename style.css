@@ -118,4 +118,18 @@ text-transform: uppercase;
         .portfolio-body{
             font-family: Roboto;
         }
-        
+        .conteiner{
+            width: 1170px;
+            margin: 0 auto;
+        } 
+        .hero{
+            padding-bottom: 94px;
+        }
+        .features{
+            
+            padding-bottom: 94px;
+        }
+        .work{
+            padding-bottom: 94px;
+        }
+       
